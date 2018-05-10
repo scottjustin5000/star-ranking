@@ -2,7 +2,7 @@
 
 > Bayesian approximation for determining an average star rating
 
-For example if an item has 50 5 stars, 90 4 stars, 60 3 stars, 15 2 stars, and 23 1 stars what is its actual, overall, average rating?
+If an item has 50 5 stars, 90 4 stars, 60 3 stars, 15 2 stars, and 23 1 stars what is its actual, overall, average rating?
 The approach implemented here is taken from the [following description](http://www.evanmiller.org/ranking-items-with-star-ratings.html)
 
 ### Usage
